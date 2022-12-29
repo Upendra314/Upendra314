@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on LinkedIn 
-- 📫 How to reach me: 
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/kotike-upendra-100290230
 - pronouns : He/His
 
 <!---
